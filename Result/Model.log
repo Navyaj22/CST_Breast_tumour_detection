@@ -1,0 +1,13 @@
+2026-03-29 17:06:43   Defined reference frequency for open boundary condition (33 GHz) is larger than
+                      the lowest relevant system frequency (monitor at 32 GHz).
+                      Please check the Settings for PML Boundary (Simulation > Settings > Boundary
+                      Conditions > Open Boundary) to ensure accurate monitor results for the lowest
+                      frequency of interest. More...
+
+                      ------------------------------------------------------------------------------
+2026-03-29 17:06:43   *** Error ***
+
+                      This software is licensed for up to 100000 mesh cells only. The current mesh
+                      size exceeds this limit. Please reduce the mesh size accordingly.
+
+                      ------------------------------------------------------------------------------

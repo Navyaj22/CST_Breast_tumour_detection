@@ -1,0 +1,94 @@
+{
+   "execution": {
+      "classname": "SMAPowerByEmagHPCFrame",
+      "libname": "SMAPowerByEmagUI"
+   },
+   "inputVariables": [
+      {
+         "name": "SL",
+         "type": "float",
+         "value": 4.7
+      },
+      {
+         "name": "SW",
+         "type": "float",
+         "value": 4.7
+      },
+      {
+         "name": "SH",
+         "type": "float",
+         "value": 0.508
+      },
+      {
+         "name": "Mt",
+         "type": "float",
+         "value": 0.035
+      },
+      {
+         "name": "PL",
+         "type": "float",
+         "value": 2.75
+      },
+      {
+         "name": "PW",
+         "type": "float",
+         "value": 3.1
+      },
+      {
+         "name": "MW",
+         "type": "float",
+         "value": 0.2
+      },
+      {
+         "name": "inL",
+         "type": "float",
+         "value": 0.2
+      },
+      {
+         "name": "inW",
+         "type": "float",
+         "value": 0.15
+      },
+      {
+         "name": "distance",
+         "type": "float",
+         "value": 12.0
+      },
+      {
+         "name": "breast_offset",
+         "type": "float",
+         "value": 1.0
+      },
+      {
+         "name": "breast_rad",
+         "type": "float",
+         "value": 10.0
+      },
+      {
+         "name": "areola_rad",
+         "type": "float",
+         "value": 1.0
+      },
+      {
+         "name": "Tx",
+         "type": "float",
+         "value": 0.0
+      },
+      {
+         "name": "Ty",
+         "type": "float",
+         "value": 0.0
+      },
+      {
+         "name": "Tz",
+         "type": "float",
+         "value": 5.0
+      },
+      {
+         "name": "tumor_rad",
+         "type": "float",
+         "value": 3.0
+      }
+   ],
+   "outputVariables": []
+}

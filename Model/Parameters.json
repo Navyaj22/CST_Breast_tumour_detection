@@ -1,0 +1,95 @@
+{
+    "parameters": [
+        {
+            "expr": "4.7",
+            "name": "SL",
+            "value": "4.7"
+        },
+        {
+            "expr": "4.7",
+            "name": "SW",
+            "value": "4.7"
+        },
+        {
+            "expr": "0.508",
+            "name": "SH",
+            "value": "0.508"
+        },
+        {
+            "expr": "0.035",
+            "name": "Mt",
+            "value": "0.035"
+        },
+        {
+            "expr": "2.75",
+            "name": "PL",
+            "value": "2.75"
+        },
+        {
+            "expr": "3.1",
+            "name": "PW",
+            "value": "3.1"
+        },
+        {
+            "expr": "0.2",
+            "name": "MW",
+            "value": "0.2"
+        },
+        {
+            "expr": "0.2",
+            "name": "inL",
+            "value": "0.2"
+        },
+        {
+            "expr": "0.15",
+            "name": "inW",
+            "value": "0.15"
+        },
+        {
+            "expr": "12",
+            "name": "distance",
+            "value": "12"
+        },
+        {
+            "expr": "1",
+            "name": "breast_offset",
+            "value": "1"
+        },
+        {
+            "expr": "10",
+            "name": "breast_rad",
+            "value": "10"
+        },
+        {
+            "expr": "breast_rad-0.5",
+            "name": "areola_distance",
+            "value": "9.5"
+        },
+        {
+            "expr": "1",
+            "name": "areola_rad",
+            "value": "1"
+        },
+        {
+            "expr": "0",
+            "name": "Tx",
+            "value": "0"
+        },
+        {
+            "expr": "0",
+            "name": "Ty",
+            "value": "0"
+        },
+        {
+            "expr": "5",
+            "name": "Tz",
+            "value": "5"
+        },
+        {
+            "expr": "3",
+            "name": "tumor_rad",
+            "value": "3"
+        }
+    ],
+    "version": 1
+}
